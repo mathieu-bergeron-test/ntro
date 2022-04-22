@@ -14,6 +14,8 @@ public interface App<FR extends FrontendRegistrar<?>> {
 	void registerBackend(BackendRegistrar registrar);
 
 	public static void launch(String[] args) {
+		// TEST modif Ntro
+
 		// TODO: get class from 
 		
 		// instantiate
